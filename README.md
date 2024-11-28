@@ -35,9 +35,44 @@ Software Engineer with expertise in full-stack web development. Currently pursui
 ![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=flat-square&logo=kubernetes&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
 
-## 🎓 Education
-- M.S. Computer Science at Clemson University (GPA: 3.70)
-- B.E. Computer Science and Engineering from BITS Pilani, Hyderabad
+## 🚀 My Journey
+
+<div align="left">
+  <div style="border-left: 2px solid #555; padding-left: 20px;">
+    
+    • May 2024 - Present
+    └── Software Engineer Intern - Clemson University
+        ↳ Developed React JS web application with OAuth 2.0 for 54 classrooms
+        ↳ Built Node.js middleware for classroom systems connectivity
+        ↳ Integrated 12 Cisco Codec Pro using RESTful APIs for Webex/Zoom
+    
+    • Jan 2023 - Dec 2024
+    └── M.S. Computer Science - Clemson University
+        ↳ GPA: 3.70
+        ↳ Courses: Data Mining, Database Systems, Parallel Architecture
+        ↳ Deep Learning, Software Design
+    
+    • Jul 2021 - Dec 2022
+    └── Software Engineer - RBL Bank Ltd
+        ↳ Developed IMPS Recon Portal processing 1M+ daily transactions
+        ↳ Optimized UDIR system reducing transaction failure by 78%
+        ↳ Upgraded Partner Onboarding Site for 1000+ concurrent vendors
+        ↳ Optimized database queries reducing server load by 30%
+        ↳ Conducted API testing using SoapUI for UPI payment endpoints
+        ↳ Led 35-member Agile team achieving 100% sprint goals
+    
+    • Jul 2020 - Jan 2021
+    └── Software Engineer Intern - Glocol Networks
+        ↳ Designed Node.js dashboard using AWS Athena and S3
+        ↳ Added real-time train tracking increasing efficiency by 40%
+        ↳ Built AWS QuickSight dashboard for ETL data visualization
+    
+    • Aug 2017 - Aug 2021
+    └── B.E. Computer Science - BITS Pilani, Hyderabad
+        ↳ Computer Science and Engineering
+    
+</div>
+</div>
 
 ## 🌟 Featured Projects
 - **Festive Fusion**: A multi-level 2D game developed using Python and Pygame
