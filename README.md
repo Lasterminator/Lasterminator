@@ -1,10 +1,13 @@
-# Hi there, I'm Trinath Sai Subhash Reddy Pittala 👋
+# 👋 Hello! I'm Subhash
+
+Software Engineer Intern @ Clemson University | MS CS @ Clemson University | RBL Bank Ltd | Glocol Networks | BITS Pilani
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/trinathpittala/)
 [![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=About.me&logoColor=white)](https://subhashreddy.netlify.app/)
+[![AWS SAA](https://img.shields.io/badge/AWS_Solutions_Architect_Associate-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white)](https://cp.certmetrics.com/amazon/en/public/verify/credential/22c4e7f0f677493f8d08e49eb2c58e6f)
 
 ## 👨‍💻 About Me
-Software Engineer with expertise in full-stack web development. Currently pursuing M.S. in Computer Science at Clemson University. AWS Certified Solutions Architect - Associate.
+Software Engineer with expertise in 3 years of full-stack web development. Currently pursuing M.S. in Computer Science at Clemson University. Open to opportunities in Software Engineering.
 
 ## 🛠️ Tech Stack
 ### Languages
@@ -34,6 +37,9 @@ Software Engineer with expertise in full-stack web development. Currently pursui
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
 ![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=flat-square&logo=kubernetes&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
+![Postman](https://img.shields.io/badge/Postman-FF6C37?style=flat-square&logo=postman&logoColor=white)
+![Tableau](https://img.shields.io/badge/Tableau-E97627?style=flat-square&logo=tableau&logoColor=white)
+![SoapUI](https://img.shields.io/badge/SoapUI-003A6E?style=flat-square&logo=soapui&logoColor=white)
 
 ## 🚀 My Journey
 
