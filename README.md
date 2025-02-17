@@ -1,13 +1,13 @@
 # 👋 Hello! I'm Subhash
 
-Software Engineer Intern @ Clemson University | MS CS @ Clemson University | RBL Bank Ltd | Glocol Networks | BITS Pilani
+Systems Developer I @ Clemson University | MS CS @ Clemson University | RBL Bank Ltd | Glocol Networks | BITS Pilani
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/trinathpittala/)
 [![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=About.me&logoColor=white)](https://subhashreddy.netlify.app/)
 [![AWS SAA](https://img.shields.io/badge/AWS_Solutions_Architect_Associate-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white)](https://cp.certmetrics.com/amazon/en/public/verify/credential/22c4e7f0f677493f8d08e49eb2c58e6f)
 
 ## 👨‍💻 About Me
-Software Engineer with expertise in 3 years of full-stack web development. Currently pursuing M.S. in Computer Science at Clemson University. Open to opportunities in Software Engineering.
+Software Engineer with expertise in 3 years of full-stack web development. Currently Working as Systems Developer I at Clemson University. Open to opportunities in Software Engineering.
 
 ## 🛠️ Tech Stack
 ### Languages
@@ -43,9 +43,12 @@ Software Engineer with expertise in 3 years of full-stack web development. Curre
 
 <div align="left">
   <div style="border-left: 2px solid #555; padding-left: 20px;">
+
+    • Feb 2025 - Present
+    └── Systems Developer I - Clemson University
     
-    • May 2024 - Present
-    └── Software Engineer Intern - Clemson University
+    • May 2024 - Dec 2024
+    └── Graduate Assistant - Clemson University
         ↳ Developed React JS web application with OAuth 2.0 for 54 classrooms
         ↳ Built Node.js middleware for classroom systems connectivity
         ↳ Integrated 12 Cisco Codec Pro using RESTful APIs for Webex/Zoom
