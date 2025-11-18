@@ -44,11 +44,8 @@ Software Engineer with expertise in 3 years of full-stack web development. Curre
 <div align="left">
   <div style="border-left: 2px solid #555; padding-left: 20px;">
 
-    • Feb 2025 - Present
+    • May 2024 - Present
     └── Systems Developer I - Clemson University
-    
-    • May 2024 - Dec 2024
-    └── Graduate Assistant - Clemson University
         ↳ Developed React JS web application with OAuth 2.0 for 54 classrooms
         ↳ Built Node.js middleware for classroom systems connectivity
         ↳ Integrated 12 Cisco Codec Pro using RESTful APIs for Webex/Zoom
@@ -68,7 +65,7 @@ Software Engineer with expertise in 3 years of full-stack web development. Curre
         ↳ Conducted API testing using SoapUI for UPI payment endpoints
         ↳ Led 35-member Agile team achieving 100% sprint goals
     
-    • Jul 2020 - Jan 2021
+    • Jul 2020 - Apr 2021
     └── Software Engineer Intern - Glocol Networks
         ↳ Designed Node.js dashboard using AWS Athena and S3
         ↳ Added real-time train tracking increasing efficiency by 40%
