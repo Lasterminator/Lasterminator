@@ -7,8 +7,97 @@
 </p>
 
 <p align="center">
-  <em>Software Engineer with 3+ years building things across fintech, AV systems, IoT, and GPU computing.<br/>Currently a Systems Developer at Clemson University. Open to SWE opportunities.</em>
+  <em>Software Engineer with 3+ years of experience shipping production systems in fintech, AV/IoT, and GPU computing.<br/>I've built tools that process 1M+ transactions/day, automated AV infrastructure across 54 classrooms,<br/>and written GPU-accelerated encryption that handles 1GB+ files. Currently at Clemson University.</em>
 </p>
+
+---
+
+### At a glance
+
+<table>
+<tr>
+<td align="center"><strong>1M+</strong><br/><sub>daily transactions processed<br/>at RBL Bank</sub></td>
+<td align="center"><strong>78%</strong><br/><sub>reduction in payment<br/>failure rates</sub></td>
+<td align="center"><strong>54</strong><br/><sub>classrooms automated<br/>at Clemson</sub></td>
+<td align="center"><strong>96%</strong><br/><sub>accuracy in transit<br/>occupancy tracking</sub></td>
+<td align="center"><strong>40%</strong><br/><sub>compute cost reduction<br/>via AWS Lambda</sub></td>
+</tr>
+</table>
+
+---
+
+### Where I've made an impact
+
+**Systems Developer** | [Clemson University](https://www.clemson.edu/) | May 2024 - Present
+- Designed and deployed an **OAuth 2.0-authenticated React dashboard** with a Node.js backend (REST + WebSockets) that gives staff **real-time remote control over AV systems in 54 classrooms**
+- Integrated **12+ Cisco video systems** into a centralized control platform, automating Zoom/Webex session management and device preset orchestration across campus
+- Engineered AV automation workflows on Datapath/Christie Spyder systems using Reax Core Studio, **reducing runtime errors by 30%** during live lectures and events
+- Built a **programmable 4-channel voice routing system** that streamlined IT support call handling, **cutting resolution time by 75%**
+
+**Software Engineer** | [RBL Bank](https://www.rblbank.com/) | July 2021 - December 2022
+- Built an **IMPS Reconciliation Portal** (Node.js + SQL Server) that automated error resolution for **1M+ daily transactions**, reducing manual effort by 65% and saving 4 hours of processing time daily
+- Contributed to a **Unified Dispute Resolution System** (Express.js) that streamlined cancelled payment workflows, achieving a **78% reduction in transaction failure rates**
+- Automated partner onboarding with **.NET Web API (C#)**, improving collaboration efficiency for corporate clients managing **1,000+ concurrent vendors**
+- Optimized critical database queries (T-SQL) and API endpoints with caching, pagination, and connection pooling -- **reducing server load by 30%** and improving response times by 50%
+- Engineered **100+ unit tests** for .NET Core payment APIs using MSTest, validating transaction logic and RBI regulatory compliance, **reducing production defects by 35%**
+
+**Software Engineer Intern** | [Glocol Networks](https://www.glocol.net/) | July 2020 - April 2021
+- Built a public transit occupancy tracking system that converted Bluetooth scan data into **96%-accurate passenger counts** using DynamoDB pipelines and ML models
+- Secured distributed APIs (NestJS/FastAPI) with OAuth 2.0 + JWT -- **zero security incidents** confirmed by penetration tests
+- Migrated workloads to **AWS Lambda**, cutting compute costs by 40%. Integrated Cypress/Jest into CI, speeding up regression detection by 80%. **Reduced MTTR by 50%** with Datadog + PagerDuty
+- Built automated data pipelines ingesting IoT sensor data from **35+ devices**, visualized via AWS QuickSight
+
+**Research Assistant** | [BITS Pilani](https://www.bits-pilani.ac.in/) | August 2019 - June 2020
+- Built a web application (Node.js + SQL) to manage departmental financial datasets, enabling structured storage of **5,000+ records** used in faculty research projects
+
+---
+
+### Featured Projects
+
+<table>
+<tr>
+<td width="50%" valign="top">
+
+**[CUDA-Accelerated AES-128](https://github.com/Lasterminator/CUDA-AES)**&ensp;`CUDA` `C++`
+<br/>GPU-parallelized AES-128 encryption/decryption leveraging multi-stream processing, pinned host memory, and shared/constant memory optimizations. Benchmarked encrypting and decrypting 1GB+ files.
+
+</td>
+<td width="50%" valign="top">
+
+**[Messenger App](https://github.com/Lasterminator/messengerApp)**&ensp;`React Native` `Firebase` `Redux`
+<br/>Full-featured mobile messenger with real-time chat, group messaging, image sharing, and push notifications. Built with Expo and Firebase backend.
+
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
+
+**[Hearing Loss Prediction from MRI](https://github.com/Lasterminator/Hearing-Loss-Prediction-from-MRI)**&ensp;`Python` `ML`
+<br/>ML pipeline using 3D autoencoders and CNNs to predict hearing loss from MRI brain scans. Built for medical imaging research at Clemson.
+
+</td>
+<td width="50%" valign="top">
+
+**[Org License Manager](https://github.com/Lasterminator/OrgLicenseManager)**&ensp;`C#` `.NET`
+<br/>Organization-level license management system built with C# for tracking, assigning, and managing software licenses across teams.
+
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
+
+**[Mood Journal](https://github.com/Lasterminator/Mood_Journal)**&ensp;`Swift` `iOS`
+<br/>Native iOS journaling app for tracking daily moods and reflections, built with Swift and UIKit.
+
+</td>
+<td width="50%" valign="top">
+
+**[AirBnB Price Determinants](https://github.com/Lasterminator/AirBnB-Price-Determinents)**&ensp;`Python` `TeX`
+<br/>Data-driven analysis of Airbnb pricing factors with statistical modeling and a LaTeX research write-up.
+
+</td>
+</tr>
+</table>
 
 ---
 
@@ -49,63 +138,7 @@
 
 ---
 
-### Featured Projects
-
-<table>
-<tr>
-<td width="50%" valign="top">
-
-**[CUDA-Accelerated AES-128](https://github.com/Lasterminator/CUDA-AES)**&ensp;`CUDA` `C++`
-<br/>GPU-parallelized AES-128 encryption/decryption using CUDA multi-stream processing, pinned memory, and shared/constant memory optimizations. Encrypts and decrypts 1GB+ files.
-
-</td>
-<td width="50%" valign="top">
-
-**[Messenger App](https://github.com/Lasterminator/messengerApp)**&ensp;`React Native` `Firebase` `Redux`
-<br/>Full-featured mobile messenger with real-time chat, group messaging, image sharing, and push notifications. Built with Expo and Firebase.
-
-</td>
-</tr>
-<tr>
-<td width="50%" valign="top">
-
-**[Hearing Loss Prediction from MRI](https://github.com/Lasterminator/Hearing-Loss-Prediction-from-MRI)**&ensp;`Python` `ML`
-<br/>ML pipeline using 3D autoencoders and CNNs to predict hearing loss from MRI brain scans. Built for medical imaging research.
-
-</td>
-<td width="50%" valign="top">
-
-**[Org License Manager](https://github.com/Lasterminator/OrgLicenseManager)**&ensp;`C#` `.NET`
-<br/>Organization-level license management system built with C# for tracking, assigning, and managing software licenses.
-
-</td>
-</tr>
-<tr>
-<td width="50%" valign="top">
-
-**[Mood Journal](https://github.com/Lasterminator/Mood_Journal)**&ensp;`Swift` `iOS`
-<br/>Native iOS journaling app for tracking daily moods and reflections, built with Swift.
-
-</td>
-<td width="50%" valign="top">
-
-**[AirBnB Price Determinants](https://github.com/Lasterminator/AirBnB-Price-Determinents)**&ensp;`Python` `TeX`
-<br/>Data-driven analysis of Airbnb pricing factors with statistical modeling and a LaTeX research write-up.
-
-</td>
-</tr>
-</table>
-
----
-
-### Where I've been
-
-| When | Where | What |
-|------|-------|------|
-| **May 2024 - Present** | **[Clemson University](https://www.clemson.edu/)** | Systems Developer -- React/Node.js AV control platform for 54 classrooms, Cisco integrations, voice routing automation |
-| **July 2021 - December 2022** | **[RBL Bank](https://www.rblbank.com/)** | Software Engineer -- IMPS reconciliation (1M+ txns/day), dispute resolution, .NET/Node.js banking tools |
-| **July 2020 - April 2021** | **[Glocol Networks](https://www.glocol.net/)** | SWE Intern -- Transit occupancy tracking (96% accuracy), AWS Lambda migration, IoT data pipelines |
-| **August 2019 - June 2020** | **[BITS Pilani](https://www.bits-pilani.ac.in/)** | Research Assistant -- Financial data management web app, REST APIs |
+### Education
 
 | Degree | School | Year |
 |--------|--------|------|
