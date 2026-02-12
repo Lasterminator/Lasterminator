@@ -102,10 +102,10 @@
 
 | When | Where | What |
 |------|-------|------|
-| **May 2024 - Present** | **Clemson University** | Systems Developer -- React/Node.js AV control platform for 54 classrooms, Cisco integrations, voice routing automation |
-| **July 2021 - December 2022** | **RBL Bank** | Software Engineer -- IMPS reconciliation (1M+ txns/day), dispute resolution, .NET/Node.js banking tools |
-| **July 2020 - April 2021** | **Glocol Networks** | SWE Intern -- Transit occupancy tracking (96% accuracy), AWS Lambda migration, IoT data pipelines |
-| **August 2019 - June 2020** | **BITS Pilani** | Research Assistant -- Financial data management web app, REST APIs |
+| **May 2024 - Present** | **[Clemson University](https://www.clemson.edu/)** | Systems Developer -- React/Node.js AV control platform for 54 classrooms, Cisco integrations, voice routing automation |
+| **July 2021 - December 2022** | **[RBL Bank](https://www.rblbank.com/)** | Software Engineer -- IMPS reconciliation (1M+ txns/day), dispute resolution, .NET/Node.js banking tools |
+| **July 2020 - April 2021** | **[Glocol Networks](https://www.glocol.net/)** | SWE Intern -- Transit occupancy tracking (96% accuracy), AWS Lambda migration, IoT data pipelines |
+| **August 2019 - June 2020** | **[BITS Pilani](https://www.bits-pilani.ac.in/)** | Research Assistant -- Financial data management web app, REST APIs |
 
 | Degree | School | Year |
 |--------|--------|------|
