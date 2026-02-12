@@ -88,6 +88,17 @@ Software Engineer with 3+ years of full-stack development experience across fint
 ## 🌟 Featured Projects
 - **CUDA-Accelerated AES-128 Implementation**: GPU-parallelized AES-128 encryption/decryption using CUDA with multi-stream processing and shared/constant memory optimizations, handling 1GB+ files
 
+## 📊 GitHub Stats
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Lasterminator&show_icons=true&theme=tokyonight&hide_border=true" alt="GitHub Stats" height="170"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Lasterminator&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" height="170"/>
+</p>
+
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Lasterminator&theme=tokyonight&hide_border=true" alt="GitHub Streak"/>
+</p>
+
 ## 📫 How to reach me
 - 📧 Email: subhash8111999@gmail.com
 - 💼 LinkedIn: [trinathpittala](https://linkedin.com/in/trinathpittala/)
