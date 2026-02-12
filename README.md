@@ -75,8 +75,8 @@
 </td>
 <td width="50%" valign="top">
 
-**[Agentic RAG System](https://github.com/Lasterminator/Agentic-Rag-faculty-polacy)**&ensp;`Python` `LLMs`
-<br/>Retrieval-Augmented Generation agent for querying and reasoning over faculty policy documents using LLMs.
+**[Org License Manager](https://github.com/Lasterminator/OrgLicenseManager)**&ensp;`C#` `.NET`
+<br/>Organization-level license management system built with C# for tracking, assigning, and managing software licenses.
 
 </td>
 </tr>
