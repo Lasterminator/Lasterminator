@@ -107,15 +107,19 @@
 | **July 2020 - April 2021** | **[Glocol Networks](https://www.glocol.net/)** | SWE Intern -- Built a transit occupancy tracker with 96% accuracy using Bluetooth data, DynamoDB, and ML. Secured APIs (NestJS/FastAPI) with OAuth 2.0 + JWT. Migrated to AWS Lambda cutting costs by 40%, reduced MTTR by 50% with Datadog + PagerDuty. Built IoT pipelines from 35+ devices. |
 | **August 2019 - June 2020** | **[BITS Pilani](https://www.bits-pilani.ac.in/)** | Research Assistant -- Built a Node.js + SQL web app for managing 5,000+ departmental financial records. Developed REST APIs that reduced manual spreadsheet work by 25%. |
 
+<div align="center">
+
 | Degree | School | Year |
 |--------|--------|------|
 | M.S. Computer Science | Clemson University | 2023 - 2024 |
 | B.E. Computer Science | BITS Pilani, Hyderabad | 2017 - 2021 |
 
+</div>
+
 ---
 
-<p align="center">
-  <a href="mailto:subhash8111999@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
-  <a href="https://linkedin.com/in/trinathpittala/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
-  <a href="https://trinathpittala.com/"><img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=About.me&logoColor=white"/></a>
-</p>
+### Get in touch
+
+- Email: [subhash8111999@gmail.com](mailto:subhash8111999@gmail.com)
+- LinkedIn: [linkedin.com/in/trinathpittala](https://linkedin.com/in/trinathpittala/)
+- Portfolio: [trinathpittala.com](https://trinathpittala.com/)
