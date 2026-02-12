@@ -102,10 +102,10 @@
 
 | When | Where | What |
 |------|-------|------|
-| **May 2024 - Present** | **[Clemson University](https://www.clemson.edu/)** | Systems Developer -- React/Node.js AV control platform for 54 classrooms, Cisco integrations, voice routing automation |
-| **July 2021 - December 2022** | **[RBL Bank](https://www.rblbank.com/)** | Software Engineer -- IMPS reconciliation (1M+ txns/day), dispute resolution, .NET/Node.js banking tools |
-| **July 2020 - April 2021** | **[Glocol Networks](https://www.glocol.net/)** | SWE Intern -- Transit occupancy tracking (96% accuracy), AWS Lambda migration, IoT data pipelines |
-| **August 2019 - June 2020** | **[BITS Pilani](https://www.bits-pilani.ac.in/)** | Research Assistant -- Financial data management web app, REST APIs |
+| **May 2024 - Present** | **[Clemson University](https://www.clemson.edu/)** | Systems Developer -- Built an OAuth 2.0 React dashboard with WebSocket-driven real-time control over AV systems in 54 classrooms. Integrated 12+ Cisco video systems, engineered automation on Datapath/Christie Spyder reducing errors by 30%, and deployed a voice routing system that cut IT resolution time by 75%. |
+| **July 2021 - December 2022** | **[RBL Bank](https://www.rblbank.com/)** | Software Engineer -- Built an IMPS Reconciliation Portal handling 1M+ daily transactions, saving 4 hours/day. Drove a 78% drop in payment failures via a dispute resolution system. Automated partner onboarding (.NET/C#) for 1,000+ vendors. Optimized T-SQL queries and APIs, cutting server load by 30%. |
+| **July 2020 - April 2021** | **[Glocol Networks](https://www.glocol.net/)** | SWE Intern -- Built a transit occupancy tracker with 96% accuracy using Bluetooth data, DynamoDB, and ML. Secured APIs (NestJS/FastAPI) with OAuth 2.0 + JWT. Migrated to AWS Lambda cutting costs by 40%, reduced MTTR by 50% with Datadog + PagerDuty. Built IoT pipelines from 35+ devices. |
+| **August 2019 - June 2020** | **[BITS Pilani](https://www.bits-pilani.ac.in/)** | Research Assistant -- Built a Node.js + SQL web app for managing 5,000+ departmental financial records. Developed REST APIs that reduced manual spreadsheet work by 25%. |
 
 | Degree | School | Year |
 |--------|--------|------|
