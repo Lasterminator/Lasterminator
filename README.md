@@ -112,7 +112,7 @@
 | Degree | School | Year |
 |--------|--------|------|
 | M.S. Computer Science | Clemson University | January 2023 - December 2024 |
-| B.E. Computer Science | BITS Pilani, Hyderabad | August 2017 - May 2021 |
+| B.E. Computer Science | Birla Institute of Technology and Science Pilani, Hyderabad | August 2017 - May 2021 |
 
 </div>
 
